@@ -1,9 +1,5 @@
 # Olá, eu sou o Paulo Gabriel Soares Gomes! 👋 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Paulo0012&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-</p>
-
 ### 🎓 Formação e Especialização
 Sou **Bacharel em Ciência e Tecnologia** e graduando em **Engenharia de Computação pela UFMA**. Atualmente, sou Residente em **Sistemas Embarcados pelo IFMA**.
 
