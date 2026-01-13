@@ -1,15 +1,15 @@
 # Olá, eu sou o Paulo Gabriel Soares Gomes! 👋 
 
 ### 🎓 Formação Acadêmica
-* [cite_start]**Bacharel em Ciência e Tecnologia** pela Universidade Federal do Maranhão (UFMA) — Concluído em 2024[cite: 50, 75].
-* [cite_start]**Graduando em Engenharia de Computação** pela UFMA[cite: 50, 74].
-* [cite_start]**Residente em Sistemas Embarcados** pelo IFMA (Instituto Federal do Maranhão)[cite: 51, 72, 73].
+* **Bacharel em Ciência e Tecnologia** pela Universidade Federal do Maranhão (UFMA) — Concluído em 2024.
+* **Graduando em Engenharia de Computação** pela UFMA.
+* **Residente em Sistemas Embarcados** pelo IFMA (Instituto Federal do Maranhão).
 
 ### 💼 Experiência Profissional
-* **Data Analyst | [cite_start]SEAP-MA** (2024 – Atual): Atuação estratégica com foco em análise de dados, automação de processos táticos e gestão de escalas com Django[cite: 43, 88, 90, 91].
-* **Assistente Técnico em Suporte e Automação | [cite_start]Infogames** (2 anos): Manutenção, suporte e soluções de automação comercial[cite: 39, 40].
-* **Recenseador | [cite_start]IBGE** (2022): Coleta de dados estatísticos e mapeamento geográfico[cite: 34, 35, 84, 86, 87].
-* **Analista de Projeto | [cite_start]Liga Universitária Empreender (LUE)**: Membro de empresa júnior focado em desenvolvimento de software[cite: 92, 97].
+* **Data Analyst | SEAP-MA** (2024 – Atual): Atuação estratégica com foco em análise de dados, automação de processos táticos e gestão de escalas com Django.
+* **Assistente Técnico em Suporte e Automação | Infogames** (2 anos): Manutenção, suporte e soluções de automação comercial.
+* **Recenseador | IBGE** (2022): Coleta de dados estatísticos e mapeamento geográfico.
+* **Analista de Projeto | Liga Universitária Empreender (LUE)**: Membro de empresa júnior focado em desenvolvimento de software.
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -23,10 +23,10 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
 
 ### 📜 Certificações e Produções
-* [cite_start]**Python Completo** (Danki Code — 26h)[cite: 81, 82].
-* [cite_start]**PHP Completo** (Danki Code — 27h)[cite: 24, 83].
-* [cite_start]**Banco de Dados** (Danki Code — 5h)[cite: 27, 80].
-* [cite_start]**Apresentações Técnicas (2025):** Autor de sistemas de automação de mini bomba d'água, controle inteligente de janelas e percepção de cores (ColorViz) em congressos[cite: 112, 114, 116, 120].
+* **Python Completo** (Danki Code — 26h).
+* **PHP Completo** (Danki Code — 27h).
+* **Banco de Dados** (Danki Code — 5h).
+* **Apresentações Técnicas (2025):** Autor de sistemas de automação de mini bomba d'água, controle inteligente de janelas e percepção de cores (ColorViz) em congressos.
 
 ---
 
