@@ -1,9 +1,5 @@
 # Olá, eu sou o Paulo Gabriel Soares Gomes! 👋 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Paulo0012&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-</p>
-
 ### 🎓 Formação Acadêmica
 * [cite_start]**Bacharel em Ciência e Tecnologia** pela Universidade Federal do Maranhão (UFMA) — Concluído em 2024[cite: 50, 75].
 * [cite_start]**Graduando em Engenharia de Computação** pela UFMA[cite: 50, 74].
