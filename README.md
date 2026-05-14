@@ -13,14 +13,22 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
-**Linguagens & Web**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+**Linguagens, Web & Frameworks**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-**Embarcados & Visão Computacional**
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00AEEF?style=for-the-badge&logo=FreeRTOS&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![FPGA](https://img.shields.io/badge/FPGA-Sistemas_Embarcados-orange?style=for-the-badge)
+**IA, Embarcados & Infra**
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00AEEF?style=for-the-badge&logo=FreeRTOS&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![FPGA](https://img.shields.io/badge/FPGA-Sistemas_Embarcados-orange?style=for-the-badge)
 
 **Dados & BI**
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+
+### 🚀 Projetos em Destaque
+* **Inspeção IA Equatorial:** Detecção de falhas em isoladores utilizando **YOLOv11** integrada à residência IFMA.
+* **Engenharia Computação TCC:** O **Libras Tour** utiliza YOLOv11 e MediaPipe para reconhecimento de gírias em sinais.
+* **[FolgasMaster](https://github.com/Paulo0012/FolgasMaster):** Aplicação Full Stack desenvolvida em Django para automatizar a gestão de escalas 1x3 na SEAP-MA.
+* **Espaço Cuidar:** Plataforma de agendamentos com API REST (Django) e Frontend em React/Vite.
+* **Lúmen IBNP:** SaaS para gestão financeira e engajamento institucional com notificações automáticas.
+* **[Automação Saídas Penais](https://github.com/Paulo0012/automacao_saidas_penal):** Ferramenta Python para localização de internos via relatórios PDF.
 
 ### 📜 Certificações e Produções
 * **Python Completo** (Danki Code — 26h).
@@ -30,11 +38,12 @@
 
 ---
 
-### 🚀 Projetos em Evidência
-* **[FolgasMaster](https://github.com/Paulo0012/FolgasMaster):** Sistema tático para gestão de escalas e banco de horas desenvolvido para o GTE/MA (SEAP/MA).
-* **[Automação Saídas Penais](https://github.com/Paulo0012/automacao_saidas_penal):** Ferramenta Python para localização de internos via relatórios PDF.
-* **[RTOS-Checkin-Biometrico](https://github.com/Paulo0012/RTOS-Checkin-Bi_metrico):** Controle de acesso utilizando FreeRTOS e Raspberry Pi Pico W.
-* **[Email Automatizado](https://github.com/Paulo0012/Email-automatizado):** Scripts para automação de comunicação produtiva.
+<h2>📊 Statistics</h2>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulo0012&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo0012&layout=compact&theme=radical" alt="Top Langs"/>
+</p>
 
 ---
 
