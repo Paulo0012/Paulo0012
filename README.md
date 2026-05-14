@@ -36,6 +36,7 @@
 * **Banco de Dados** (Danki Code — 5h).
 * **Apresentações Técnicas (2025):** Autor de sistemas de automação de mini bomba d'água, controle inteligente de janelas e percepção de cores (ColorViz) em congressos.
 
+
 ---
 
 <h2>📊 Statistics</h2>
@@ -46,6 +47,7 @@
 </p>
 
 ---
+
 
 ### 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-gabriel-b0511b255) 
